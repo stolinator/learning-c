@@ -3,3 +3,5 @@ CFLAGS=-Wall -g
 
 clean:
 	rm -f ex{1..17}
+	rm db.dat
+	rm database
